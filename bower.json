@@ -1,0 +1,23 @@
+{
+  "name": "MoreBetterJS",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cameronmoreau/MoreBetterJS.git",
+  "authors": [
+    "Cameron Moreau <cameron.cm6@gmail.com>"
+  ],
+  "description": "It's JavaScript, but better",
+  "main": "morebetter.js",
+  "keywords": [
+    "more",
+    "better",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

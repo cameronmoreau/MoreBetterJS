@@ -1,0 +1,24 @@
+{
+  "name": "morebetterjs",
+  "version": "1.0.0",
+  "description": "Like JavaScript, but better.",
+  "main": "morebetter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cameronmoreau/MoreBetterJS.git"
+  },
+  "keywords": [
+    "more",
+    "better",
+    "js"
+  ],
+  "author": "Cameron Moreau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronmoreau/MoreBetterJS/issues"
+  },
+  "homepage": "https://github.com/cameronmoreau/MoreBetterJS"
+}
